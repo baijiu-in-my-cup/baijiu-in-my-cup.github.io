@@ -58,8 +58,8 @@ kramdown:
 netease_comment: false
 
 # gitment settings
-gitment_username: zxinblog
-gitment_repo: https://baijiu-in-my-cup.github.io/
+gitment_username: baijiu-in-my-cup
+gitment_repo: baijiu-in-my-cup.github.io
 gitment_client_id: Ov23liXu1zfjPMfV0rTJ
 gitment_client_secret: dc395bc4e0de58d714d41b662f6930c08c9f50a7
 
