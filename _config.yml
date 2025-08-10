@@ -1,6 +1,6 @@
 # Site settings
-title: ZXin Blog
-SEOTitle: 张欣的博客 | ZXin Blog
+title: 储蓄卡 Blog
+SEOTitle: 储蓄卡的博客 | Baijiu Blog
 header-img: img/home-bg.jpg
 email: zxin111@foxmail.com
 description: "随便聊聊,留下一点痕迹"
@@ -15,7 +15,7 @@ future: true
 RSS: false
 # weibo_username:     hustyichi
 # zhihu_username:     hustyichi
-github_username:    baijiu-in-my-cup
+# github_username:    baijiu-in-my-cup
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
