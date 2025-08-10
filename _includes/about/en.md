@@ -1,9 +1,7 @@
 
 
-> Write all kinds of codes
 
-
-Hi, I am yichi, it is my blog
+Hi, I am Xin Zhang.
 
 
 

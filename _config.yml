@@ -1,10 +1,10 @@
 # Site settings
-title: Bryan Blog
-SEOTitle: 易迟的博客 | Bryan Blog
+title: ZXin Blog
+SEOTitle: 张欣的博客 | ZXin Blog
 header-img: img/home-bg.jpg
-email: hustyichi@163.com
-description: "来自易迟的博客，什么都会涉及，随意看看"
-keyword: "博客, 个人网站, 互联网, Web, JavaScript, 前端, 后端，Python"
+email: zxin111@foxmail.com
+description: "随便聊聊,留下一点痕迹"
+keyword: "博客,个人网站,互联网,Python"
 url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     hustyichi
-zhihu_username:     hustyichi
-github_username:    hustyichi
+# weibo_username:     hustyichi
+# zhihu_username:     hustyichi
+github_username:    baijiu-in-my-cup
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -58,10 +58,10 @@ kramdown:
 netease_comment: false
 
 # gitment settings
-gitment_username: comment-jason
-gitment_repo: hustyichi.github.io
-gitment_client_id: 6c5dd6a9381fcd074e23
-gitment_client_secret: 110173f705724ed982e78e626f29a5ed4d37d01f
+gitment_username: zxinblog
+gitment_repo: https://baijiu-in-my-cup.github.io/
+gitment_client_id: Ov23liXu1zfjPMfV0rTJ
+gitment_client_secret: dc395bc4e0de58d714d41b662f6930c08c9f50a7
 
 
 # Analytics settings
@@ -76,8 +76,8 @@ gitment_client_secret: 110173f705724ed982e78e626f29a5ed4d37d01f
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "享受生活<br>享受coding"
-sidebar-avatar: /img/photo.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "不驰于空想,不骛于虚声"
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
